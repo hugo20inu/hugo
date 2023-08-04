@@ -1,0 +1,25 @@
+Merhaba burada ekosistemin çalışmasını detaylı olarak anlatacağız.
+
+%4 Her alış,satış,transfer işleminden tutuculara ellerindeki oranda token dağıtımı yapılır.
+%1 Her alış,satış,transfer işleminden bahsi geçen tokenlerin %1 i kalıcı olarak arzdan silinir.
+%5 Her alış,satış,transfer işleminden marketing geliri elde edilir; %1 buyback için kullanılır yansıma karı almayan ve aldığı tokeni satmayan bir hesapta belirsinz zamanlarda projeye kalıcı değer kazandırmak için alım yapılır. %2 Likiditeye ekleme yapılarak daha güçlü bir token likiditesi elde edilmeye çalışılır. %2 proje giderlerinin karşılanması için kullanılır.
+
+Ekosistem içinde bazı hesaplar Projeye gelir elde etmek ve reklam ve airdrop yapmak için yansıma geliriyle ekosistem içirisinde yerini almıştır. ilerleyen zamanda günceleme ile detaylı bir şekilde bu hesaplar belirtilecektir.
+
+Yanma ve pinksale kilitleme cüzdanlarıda yansıma geliri dışına itilmiştir. bu hesaplarda herhangibi bir gelir elde edememektedirler.
+
+yeni bir sistemimiz var ilerleyen zaman da ekosystem içindeki tüm hesapları buraya detaylı bir şekilde yazacağız.
+
+---------------------------------------------------------------------------------------------------------------------
+
+Hello, here we will explain the working of the ecosystem in detail.
+
+4% Token distribution is made to the holders from each purchase, sale, transfer transaction at the rate they have.
+1% For every purchase, sale, transfer transaction, 1% of the mentioned tokens are permanently deleted from the supply.
+5% Marketing income is obtained from each purchase, sale, transfer; 1% is used for buyback. When you appear in an account that does not receive a reflection profit and does not sell the token, purchases are made to add permanent value to the project. By adding 2% liquidity, a stronger token liquidity is tried to be obtained. 2% is used to cover project expenses.
+
+Some accounts within the ecosystem have taken their place in the ecosystem with the reflection income in order to generate income and advertise and airdrop to the Project. These accounts will be specified in detail with an update in the future.
+
+Combustion and pinksale lockout wallets are also excluded from reflection revenue. they cannot earn any income from these accounts.
+
+We have a new system, and in the future, we will write all the accounts in the ecosystem here in detail.

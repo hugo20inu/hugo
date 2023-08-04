@@ -1,0 +1,38 @@
+Yol Haritası; 
+
+- Öncelikli olarak projemizin tanıtımını yapmak ve değer kazandıran işlere imza atmak.
+- Toplam token arzının %50 sinin yakılması.
+- Geriye kalan arzın %50 sinin ilerleyen zamanlarda borsalara verilmek için pinksalede kilitlenmesi.
+- Logo yarışması düzenleyerek topluluğun projenin içerisine katılmasını sağlamak / logo seçmek.
+- Coinmarket listelemesi almak.
+- Dexttool bilgi güncelemesi yapmak ve 99/99 Puana sahip olmak.
+- Coingecko listelemesi almak.
+- Gerekli güvenlik sertifikalarına aday olmak ve elde etmek.
+- Nft albümümüzü kendi hugo tokenimizle mint edilmesini sağlamak.
+- Mint yoluyla elde edilen hugo2.0 tokenlerle internet sitesinden stake edilerek token kazanılacak bir contrat kurmak aynı zamanda bu contratı besleyecek bir besleme hesabı oluşturulmasını sağlamak.
+- Nft albümü çalışır duruma geldikten sonra bnb üzerinden alım satıma açılması her yapılan başarılı alış satış işleminde %10 fee alınması ve projeye kullanılması sağlanacaktır.
+- Mexc borsasında listelenmek.
+- Kendi nft marketini çıkarmayı hedefleyen bir projede tokenimizin platform içinde nft albümü kurma, alma , satma işlemlerinde kullanılabiliyor olması.
+- Sırasıyla diğer listeleme ve diğer borsalara girmek.
+- Tokenimizin Defyanolist bir şekilde değer kazanması ve kazandığı değerde kalıcı olmasıdır.
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Road map;
+
+- First of all, to introduce our project and to sign works that add value.
+- Burning 50% of the total token supply.
+- 50% of remaining supply is locked in pink sale for future trades.
+- Organizing a logo contest and making them participate in the invitation / choosing a logo.
+- Coinmarket listing is taken.
+- Update Dexttool knowledge and get 99/99 Score.
+- Get the Coinecko list.
+- Becoming a candidate and obtaining the necessary security certificates.
+- Printing our nft album with our own hugo2.0 token.
+- With the hugo2.0 tokens obtained through the Mint, he will establish a contract in the internet language in which he will earn coins, and at the same time, he will have obtained a feeding account organization that will feed this contract.
+- It is aimed to be used for the project by charging 10% in the successful transaction process opened in bnb after the Nft album became operational.
+- To be listed on the Mexc stock exchange.
+- For those targeting their own nft market, our token platform can be used to create, buy and sell nft albums within the platform.
+- Entering other listings and other exchanges, respectively.
+- Token Defyanistically gained value and its value is permanent.

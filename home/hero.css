@@ -1,0 +1,17 @@
+@media all and (min-width:10px)  {
+    #hero-text{
+        margin-top: 0px !important;
+       }
+}
+
+@media all and (min-width:990px)  {
+    #hero-text{
+        margin-top: -150px !important;
+       }
+}
+
+@media all and (min-width:1100px)  {
+    #hero-text{
+        margin-top: -200px !important;
+       }
+}
